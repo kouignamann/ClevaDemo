@@ -1,6 +1,6 @@
-package demo.cleva;
+package demo.cleva.core;
 
-import demo.cleva.exception.AventureException;
+import demo.cleva.core.exception.AventureException;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package demo.cleva;
+package demo.cleva.core;
 
 public class Aventurier {
     protected int x;

@@ -1,7 +1,7 @@
-package demo.cleva;
+package demo.cleva.core;
 
-import demo.cleva.exception.AventureException;
-import demo.cleva.exception.LectureCarteException;
+import demo.cleva.core.exception.AventureException;
+import demo.cleva.core.exception.LectureCarteException;
 
 import java.io.IOException;
 

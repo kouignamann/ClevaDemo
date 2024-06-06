@@ -1,4 +1,4 @@
-package demo.cleva;
+package demo.cleva.core;
 
 import org.junit.jupiter.api.Test;
 
